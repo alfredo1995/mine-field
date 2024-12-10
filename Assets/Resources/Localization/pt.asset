@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f39330cbe37378c4ea4c5805b39b1b42, type: 3}
+  m_Name: pt
+  m_EditorClassIdentifier: 
+  texts:
+  - key: connecting_screen
+    value: Conectando
+  - key: next_bet
+    value: "Pr\xF3ximo"
+  - key: bet_value
+    value: Valor da aposta
+  - key: auto_bet
+    value: Auto aposta
+  - key: rounds_value
+    value: Rodadas
+  - key: start_auto
+    value: Iniciar
+  - key: bet_button
+    value: 
+  - key: bet_button_cancel
+    value: 
+  - key: bet_button_collect
+    value: 
+  - key: random_button
+    value: "Aleat\xF3rio"
+  - key: menu_music
+    value: "M\xFAsica"
+  - key: menu_sfx
+    value: Efeitos sonoros
+  - key: menu_history
+    value: "Hist\xF3rico de apostas"
+  - key: menu_rules
+    value: Regras do jogo
+  - key: menu_limits
+    value: Limites de aposta
+  - key: menu_howtoplay
+    value: Como jogar
+  - key: history_time
+    value: Data e Hora
+  - key: history_bet
+    value: Aposta
+  - key: history_cashout
+    value: Saque
+  - key: history_multiplier
+    value: Multiplicador
+  - key: history_result
+    value: 'Resultado:'
+  - key: history_mines
+    value: Quantidade de Minas
+  - key: client_seed
+    value: "Pr\xF3ximo Seed do Client"
+  - key: server_seed
+    value: "Pr\xF3ximo Seed do Servidor"
+  - key: instruction_provably_fair
+    value: "<size=30>Para instru\xE7\xF5es checar</size> <color=green>O que \xE9
+      Comprovadamente Justo</color>"
+  - key: limits_max
+    value: "Aposta m\xE1xima"
+  - key: limits_min
+    value: "Aposta m\xEDnima"
+  - key: limits_cashout
+    value: "Saque m\xE1ximo"
+  - key: limits_details
+    value: "Os limites do jogo s\xE3o gerenciados pelo operador. Os limites atuais
+      deste jogo podem ser conferidos abaixo:"
+  - key: howtoplay_details
+    value: "Fa\xE7a uma aposta, escolha o n\xFAmero de minas e comece o jogo!\n\nEm
+      cada espa\xE7o (c\xE9lula) existe uma bola de ouro ou uma mina, clique no espa\xE7o
+      desejado e descubra a sua sorte!\n\nQuanto mais espa\xE7os forem selecionados,
+      maior pode ser o pr\xEAmio. Ap\xF3s cada jogada \xE9 poss\xEDvel resgatar o
+      ganho, ou continuar jogando para ganhar ainda mais!\n\nO objetivo principal
+      do jogo \xE9 quanto mais moedas forem achadas maior ser\xE1 a recompensa, mas
+      evite encontrar as minas."
+  - key: rules_details
+    value: "<b>Mines F12 Champions</b> usa um sistema comprovadamente justo, permitindo
+      que voc\xEA tenha uma chance de ganhar muito de forma r\xE1pida, divertida
+      e mais segura!"
+  - key: rules_howtoplay
+    value: "Siga estas tr\xEAs simples etapas para come\xE7ar a jogar:\n\n<b>1 -
+      Apostar:</b>\nInforme o valor da aposta e pressione o bot\xE3o APOSTAR para
+      iniciar a rodada.;\n\n<b>2 - Selecionar:</b>\nEscolha os espa\xE7os manualmente
+      ou atrav\xE9s do modo aleat\xF3rio utilizando o bot\xE3o correspondente. Ap\xF3s
+      clicar em um espa\xE7o e revelar uma moeda, o multiplicador de pagamento aumenta
+      para cada moeda.;\n\n<b>3 - Coletar:</b>\nA qualquer momento voc\xEA pode utilizar
+      o bot\xE3o COLETAR. Quando utiliza este bot\xE3o a rodada se encerra e os ganhos
+      podem ser resgatados.\n\nQuanto mais moedas forem achadas maior ser\xE1 a recompensa,
+      e para que isso ocorra evite encontrar as minas. \xC0 medida que voc\xEA encontra
+      mais moedas, mais aumenta as chances de ganho.\n\nO n\xFAmero de minas pode
+      ser modificado. Isto ir\xE1 afetar as chances de encontrar uma mina, consequentemente
+      mudando o multiplicador de aposta.\n\nOs valores m\xE1ximos e m\xEDnimos de
+      aposta s\xE3o determinados pelo operador do jogo. O valor m\xE1ximo de retirada
+      (cashout) que um jogador pode sacar \xE9 igualmente determinado pelo operador."
+  - key: rules_functionalities
+    value: Funcionalidades do jogo
+  - key: rules_functionalities_text
+    value: "<b>Apostar:</b>\n\nPara fazer uma aposta informe ou selecione o valor
+      desejado e pressione o bot\xE3o APOSTAR e a rodada ser\xE1 iniciada.\n\n<b>Coletar:</b>
+      \n\nO jogador pode finalizar a rodada a qualquer momento pressionando o bot\xE3o
+      COLETAR. Ao realizar essa a\xE7\xE3o a rodada \xE9 finalizada e o jogador pode
+      coletar seus ganhos.\n\n<b>Auto Aposta: </b>\n\nPara realizar rodadas autom\xE1ticas
+      pressione o bot\xE3o AUTO e escolha os espa\xE7os que ser\xE3o revelados em
+      cada rodada.\n\nAp\xF3s escolher os espa\xE7os pressione o bot\xE3o APOSTAR
+      para informar atrav\xE9s do pop-up auto aposta o n\xFAmero de rodadas que ser\xE3o
+      realizadas e pressione o bot\xE3o INICIAR.\n\nAo iniciar \xE9 exibido um contador
+      com o n\xFAmero de rodadas que faltam ser realizadas. As rodadas ser\xE3o finalizadas
+      automaticamente ou o jogador pode interromper pressionando no contador.\n"
+  - key: rules_other_details
+    value: "Detalhes T\xE9cnicos"
+  - key: rules_other_details_text
+    value: "A quantia que voc\xEA acumula \xE0 medida que joga \xE9 calculada com
+      base no valor inicial de aposta, vezes o n\xFAmero multiplicador apresentado
+      em cada rodada.\n\nOs n\xFAmeros multiplicadores s\xE3o definidos a partir
+      do n\xFAmero de minas antes de cada partida iniciar, e ao n\xFAmero de moedas
+      reveladas durante toda a partida.\n\nO jogador pode terminar a rodada no instante
+      que desejar ao clicar no bot\xE3o \"cashout\" coletar.\n"
+  - key: provably_fair_details
+    value: "Mines F12 Champions usa um sistema comprovadamente justo, permitindo
+      que voc\xEA tenha uma chance de ganhar muito, de forma r\xE1pida, divertida
+      e mais segura!"
+  - key: provably_fair_random
+    value: "Aleat\xF3rio a cada nova rodada"
+  - key: provably_fair_nonce
+    value: Adicionar nonce
+  - key: hour_text
+    value: "\xE0s"
+  - key: mines_amount
+    value: Quantas minas?
+  - key: mines_dropdown
+    value: 'Minas: '
+  - key: provably_fair
+    value: Comprovadamente Justo
+  - key: menu_history
+    value: "Hist\xF3rico"
+  - key: menu_cashier
+    value: Depositar
+  - key: menu_back
+    value: Voltar
+  - key: quitButton
+    value: Sair do jogo
+  - key: quit
+    value: Desistir
+  - key: restart
+    value: Reiniciar
+  - key: ok
+    value: Ok
+  - key: deposit
+    value: Depositar
+  - key: error_expired
+    value: "Sess\xE3o expirada"
+  - key: error_connection
+    value: "Erro de conex\xE3o"
+  - key: error_internalServer
+    value: Erro interno do servidor
+  - key: error_noMoney
+    value: "Voc\xEA n\xE3o tem fundos suficientes"
+  - key: error_generic
+    value: "Desculpe, encontramos um erro. Clique em OK para atualizar a p\xE1gina.
+      Se o problema persistir, entre em contato com o suporte."
+  - key: error_deactivated
+    value: "Desculpe, este jogo est\xE1 desativado. Por favor, tente outro."
+  - key: history_details
+    value: Detalhes da rodada
+  - key: history_loadMore
+    value: Carregar mais
+  - key: rules_more_details
+    value: Informacao adicional
+  - key: rules_more_details_text
+    value: "Em caso de funcionamento indevido do jogo, todas as apostas e ganhos
+      afetados ser\xE3o anuladas e os valores ser\xE3o reembolsados;\n\nSe a conex\xE3o
+      com a internet for interrompida quando o jogador pressionar o bot\xE3o \u201CCOLETAR\u201D,
+      o jogo n\xE3o ir\xE1 contabilizar os ganhos decorrentes desta(s) partida;"
+  - key: rules_more_details_text
+    value: 

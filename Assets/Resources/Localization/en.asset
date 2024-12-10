@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f39330cbe37378c4ea4c5805b39b1b42, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  texts:
+  - key: connecting_screen
+    value: Connecting
+  - key: next_bet
+    value: Next
+  - key: bet_value
+    value: Bet Value
+  - key: auto_bet
+    value: Auto Bet
+  - key: rounds_value
+    value: Rounds
+  - key: start_auto
+    value: Start
+  - key: bet_button
+    value: 
+  - key: bet_button_cancel
+    value: 
+  - key: bet_button_collect
+    value: 
+  - key: random_button
+    value: Random
+  - key: menu_music
+    value: Music
+  - key: menu_sfx
+    value: Sound effects
+  - key: menu_history
+    value: Bets history
+  - key: menu_rules
+    value: Game rules
+  - key: menu_limits
+    value: Game limits
+  - key: menu_howtoplay
+    value: How to play
+  - key: history_time
+    value: Date Time
+  - key: history_bet
+    value: Bet
+  - key: history_cashout
+    value: Cashout
+  - key: history_multiplier
+    value: Multiplier
+  - key: history_result
+    value: 'Result:'
+  - key: history_mines
+    value: Number of Mines
+  - key: client_seed
+    value: Next Client Seed
+  - key: server_seed
+    value: Next Server Seed
+  - key: instruction_provably_fair
+    value: <size=30>For instructions check</size> <color=green>What is Provably Fair</color>
+  - key: limits_max
+    value: Max bet
+  - key: limits_min
+    value: Min bet
+  - key: limits_cashout
+    value: Max cashout
+  - key: limits_details
+    value: "The game limits are managed by the operator. Current limits are displayed\_below:"
+  - key: howtoplay_details
+    value: "Make a bet, choose the amount of mines and start playing!\n\nEach tile
+      (cell) carries either a gold ball or a mine. Click on the desired tile to push
+      your luck! \n\nThe more chosen tiles, the higher is the prize. It is possible
+      to cashout your gains after every round, or keep playing to earn even more!\n\nThe
+      main goal of the game is to find the most coins to increase rewards while avoiding
+      the mines. "
+  - key: rules_details
+    value: <b>Mines F12 Champions</b> uses a provably fair system, allowing you to
+      have a chance of winning a lot in a fast, fun and safer way!
+  - key: rules_howtoplay
+    value: "Follow these three easy steps to start playing:\n\n<b>1 - Bet:</b>\nInsert
+      the desired bet value and press the \"BET\" \nbutton to start the round;\n
+      \n<b>2 - Pick Tiles:</b> \nSelect the tiles carefully to reveal it, or pick
+      a\ntile randomly by clicking the \"RANDOM\" button. Your \npayout multiplier
+      increases with each revealed coin;\n \n<b>3 - Cash Out:</b> \nAt any point
+      in time you can press the \"CASHOUT\"\nbutton. When you cashout, the round
+      is over and\nyou will collect your winnings. \n\nThe main goal of this game
+      is to find coins to increase rewards, while avoiding mines. As you increase
+      the number of coins revealed, you achieve bigger odds and payout multiplier
+      increases;\n\nThe number of mines in the field can be changed. This will affect
+      the odds of finding a mine, consequently changing the bet multiplier;\n\nThe
+      minimum and maximum bet for this game is chosen by the operator. This is also
+      the case for the maximum amount that a player can collect."
+  - key: rules_functionalities
+    value: Game functionalities
+  - key: rules_functionalities_text
+    value: "<b>Bet and cash out:</b>\n\nInsert the desired bet value and press the
+      \"BET\" button to make a bet and begin the round; The player can finish the
+      round at any moment by pressing the \"CASHOUT\" button. In this case, the player
+      wil end the round and collect his winnings.\n\n<b>Auto Bet: </b>\n\nThe auto
+      bet mode is triggered by pressing the \"AUTO\" button. The player must first
+      choose the tiles he wishes to reveal during every round played while in the
+      auto bet mode. Once all the tiles are selected, a pop-up will appear and the
+      number of rounds the player wishes to play must be chosen. After the choice
+      is made, the player can press the \"BET\" button to start the rounds. After
+      the game starts, remaining number of rounds are displayed on the counter. The
+      auto bet mode will automatically stop after the number of selected rounds is
+      over or if the player clicks\_on\_the\_counter."
+  - key: rules_other_details
+    value: Technical Details
+  - key: rules_other_details_text
+    value: "Your winnings are calculated based on the initial bet value, times the
+      multiplier displayed in each round;\n\nMultipliers are defined by the number
+      of mines chosen prior the beginning of the match and the number of revealed
+      coins;\n \nThe greater the number of revealed coins, the larger are the multipliers;\n\nThe
+      player can finish the match at any given moment\nby pressing the \"CASHOUT\"
+      button;"
+  - key: provably_fair_details
+    value: Mines F12 Champions game uses a  provably fair tecnology to determine
+      game result, allowing you for a chance to earn much more, in a quicker, funnier
+      and safest way!
+  - key: provably_fair_random
+    value: Random on every new game
+  - key: provably_fair_nonce
+    value: Add nonce
+  - key: hour_text
+    value: at
+  - key: mines_amount
+    value: Number of Mines
+  - key: mines_dropdown
+    value: 'Mines: '
+  - key: provably_fair
+    value: Provably fair
+  - key: menu_history
+    value: History
+  - key: menu_cashier
+    value: Cash in
+  - key: menu_back
+    value: Back
+  - key: quitButton
+    value: Quit
+  - key: quit
+    value: Quit
+  - key: restart
+    value: Restart
+  - key: ok
+    value: Ok
+  - key: deposit
+    value: Deposit
+  - key: error_expired
+    value: Session expired
+  - key: error_connection
+    value: Connection error
+  - key: error_internalServer
+    value: Internal server error
+  - key: error_noMoney
+    value: You have insufficient funds
+  - key: error_generic
+    value: Sorry, we have encountered an error, click 'OK' to refresh the page, if
+      the problem persists please contact support
+  - key: error_deactivated
+    value: Sorry, this game is disabled. Please, try another one.
+  - key: history_details
+    value: Round details
+  - key: history_loadMore
+    value: Load more
+  - key: rules_more_details
+    value: Aditional information
+  - key: rules_more_details_text
+    value: 'In case of game malfunction, every affected bet and winning values will
+      be canceled and the affected amount will be refunded to the player;
+
+
+      If
+      the internet connection is interrupted when the player presses the "CASH OUT"
+      button, the game system will not account any values won from this (those) matches;'
+  - key: rules_more_details_text
+    value: 

@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f39330cbe37378c4ea4c5805b39b1b42, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  texts:
+  - key: PL001
+    value: "\t\rtitle:Player Blocked Error\ndescription:The player has been blocked
+      and cannot access the game."
+  - key: PL002
+    value: 'title:Session Expired Error
+
+      description:The player''s session
+      has expired, requiring a new login or session renewal.'
+  - key: PL003
+    value: 'title:Game Disabled Error
+
+      description:The game is currently deactivated,
+      either due to maintenance or for other administrative reasons.'
+  - key: PL004
+    value: 'title:User already Connected error
+
+      description:The user is already
+      connected.'
+  - key: PL005
+    value: 'title:Game Not Started
+
+      description:The game hasn''t started yet,
+      or it''s starting.'
+  - key: GS001
+    value: 'title:Game Rule Violation Error
+
+      description:The player tries to
+      carry out an action that goes against the rules of the game.'
+  - key: GS002
+    value: 'title:Internal Server Error
+
+      description:A generic server error
+      indicating internal problems.'
+  - key: GS003
+    value: 'title:Another Session Error
+
+      description:A new login has been detected,
+      invalidating the current session. When the user tries to open two connections.'
+  - key: GS004
+    value: 'title:Player Was Blocked Error
+
+      description:Player was blocked
+      during the game session.'
+  - key: GS005
+    value: 'title:Connection Error
+
+      description:Unstable connection or bad
+      network quality.'
+  - key: GS006
+    value: 'title:Region | Jurisdiction Lock Error
+
+      description:Player tries
+      to access from a region where gambling is not allowed.'
+  - key: GS007
+    value: 'title:Game Not Found
+
+      description:The game couldn''t be found.'
+  - key: OP001
+    value: 'title:Insufficient Funds Error
+
+      description:The player tries to
+      place a bet with an insufficient balance.'
+  - key: OP002
+    value: 'title:Bet Was Not Placed Error
+
+      description:Failure to place a
+      bet due to connection or validation problems.'
+  - key: OP003
+    value: 'title:Betting Time Expired Error
+
+      description:Attempt to bet after
+      the betting time has closed.'
+  - key: OP004
+    value: "\t\rtitle:Bet Already Exists\ndescription:Trying to make the same bet
+      twice at the same time."
+  - key: CS001
+    value: 'title:Suspicious Activity Detected Error
+
+      description:Suspicious
+      activity detected on the player''s account.'
+  - key: CS002
+    value: 'title:Device Restriction Error
+
+      description:Access was denied due
+      to restrictions on the device used by the player.'
+  - key: CS003
+    value: 'title:Settings Get Error
+
+      description:Error when trying to retrieve
+      or load user/game settings.'
+  - key: CS004
+    value: 'title:Reality Check
+
+      description:It gives players the option of
+      setting a time frequency at which you will receive a notification about the
+      time you have spent in the game.'
+  - key: MS001
+    value: 'title:Especific Mines Error
+
+      description:Especific Mines Error!!'
+  - key: CL001
+    value: 'title:Invalid Channel Error
+
+      description:When the player tries
+      to subscribe to a channel that does not exist or is forbbiden.'
+  - key: CL002
+    value: "\t\rtitle:Auto bet with Bet already placed\ndescription:Whe the player
+      tries to place auto bet but a normal bet is already placed."
+  - key: CL003
+    value: 'title:Bet value too high
+
+      description:When the bet value is higher
+      than the max value.'
+  - key: CL004
+    value: 'title:Bet value too low
+
+      description:When the bet value is lower
+      than the min value.'
+  - key: CL005
+    value: 'title:Auto bet not enabled
+
+      description:When the user tries to
+      auto bet but it is not available.'

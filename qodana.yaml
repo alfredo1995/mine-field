@@ -1,0 +1,18 @@
+﻿version: "1.0"
+
+profile:
+  name: qodana.recommended
+
+failThreshold: 15
+
+include:
+  - name: All
+    paths:
+      - Assets/Scripts/**/*.cs
+
+exclude:
+  - name: WebGL Templates
+    paths:
+      - Assets/WebGLTemplates/**/*
+
+linter: jetbrains/qodana-dotnet:latest

@@ -1,0 +1,27 @@
+{
+  "variables": [
+    {
+      "name": "root-dir",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "dir",
+        "/b"
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "name": "commit-message-linter",
+      "group": "commit-msg",
+      "command": "dotnet",
+      "args": [
+        "husky",
+        "exec",
+        ".husky/csx/commit-lint.csx",
+        "--args",
+        "${args}"
+      ]
+    }
+  ]
+}

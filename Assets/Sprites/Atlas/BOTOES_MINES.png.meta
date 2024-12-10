@@ -1,0 +1,1627 @@
+fileFormatVersion: 2
+guid: ee433d479842b4b40b2f2a46d5181b0f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOTOES_MINES_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 941
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 27, z: 25, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f800ba4d66c69a488920930087f6b7b
+      internalID: -442563597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 889
+        width: 337
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56aa40e36f20e448a8e3fda2d253d52
+      internalID: -503378947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 867
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 27, z: 25, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ab48db58f8dd41a3bec071716b646
+      internalID: 512667042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_4
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 755
+        width: 337
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a5b32fe2f55c14291e3cb705b5ca80
+      internalID: -269341835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 792
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 25, y: 27, z: 25, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de09a5ea566d0e2438e59534caed5a4d
+      internalID: 1180219957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 750
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7c02cde0ca6dd4286ffa6938889e10
+      internalID: 1727531421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 732
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b837c36ddb0f4c46a141a1ddd029945
+      internalID: -1775342129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 665
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e05b6d20296c9f48acf03aac59535c5
+      internalID: 2137596375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 653
+        width: 148
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 37, y: 0, z: 37, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec807172390b5504cbe583faf0926ca9
+      internalID: -1579341194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 616
+        width: 337
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a4b55a55c408c44b4485dd74545b90
+      internalID: 633698601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 619
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970c9528dbda6d14c8145fa307fcc804
+      internalID: 1452785236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 585
+        width: 204
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 33, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7b94832fe481a4d96a04ca73361650
+      internalID: 124939695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 565
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d7caa4f288a0f438b47b405de779f4
+      internalID: -1498082923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 515
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 18, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace34b0f9a29ed14b910fe772dae1047
+      internalID: 906056886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 515
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755e21212d9259046bacf4425c5afacd
+      internalID: 979771122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 387
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0182131997d40044ba012d19c0e4f3a
+      internalID: -1457419029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_26
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 177
+        width: 340
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad403e58ee6a95b4ea0d0386fffae1b9
+      internalID: 1321908741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 30
+        width: 338
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae3b36bef9fdfe499f72ed88bcb3452
+      internalID: 626963715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 750
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e84e84ff8280b4f991d4ea5e78ac21
+      internalID: 1092009442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 517
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5f6d200c6e53a479534e7ca1dc57f0
+      internalID: -527550073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 469
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d142ca658f45581419152034f4395c6d
+      internalID: 1955762836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_22
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 475
+        width: 338
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5df0cf4aad6fe489b7e86350c96a70
+      internalID: 343419282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 428
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad90a1780111d3469acdeeddbb96f44
+      internalID: -1373290688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 877
+        width: 303
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e622a033817166e4da260c4b35d85d44
+      internalID: 1085415278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 830
+        width: 387
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 193, y: 0, z: 193, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f43778056ea3c4b8743a03ab9d996c
+      internalID: -1089477425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 732
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcaa02a82db58b459a832db495691e1
+      internalID: -153174560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 714
+        width: 127
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14309bb5160688943b04a74f83d395ef
+      internalID: -1397840436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 80
+        width: 127
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5495cf766821c784ab38ef43ff218148
+      internalID: -892223039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 284
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 32, z: 34, w: 32}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3f6526570b4844e9f4033b66772222
+      internalID: -1317407652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 156
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd94f96e7e1884aba7bcf9f11a58c5
+      internalID: 1736630473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 172
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 20, z: 40, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b29a251f76e3c54b8b71eb6e90d2dca
+      internalID: 1283857680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 171
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 21, z: 43, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7825823c964d5c43ac49255ba903d18
+      internalID: 589691580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_32
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 102
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 23, z: 42, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299b923067c221346965d93aa4477cf9
+      internalID: -6312968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_33
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 177
+        width: 88
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 44, y: 17, z: 44, w: 17}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c345580787bddd24d828643d2a306c1f
+      internalID: 564616823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 384
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3159058314537924f9517db7e4ecaab4
+      internalID: 895443043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 333
+        width: 84
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 41, y: 0, z: 43, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22445505aadd0d84588e1970f7c9dcc1
+      internalID: 1160342702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 384
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383cf94d93a6d184cb1227dd05a062cf
+      internalID: -1069498718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_37
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 380
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7e9fe1e14743488413162be7c1bbc
+      internalID: 365829085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 453
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f34a42c2fffad4aa07a4c592b72782
+      internalID: 948423725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 457
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c2557bc81b5474fbe3edd28d04a82b
+      internalID: 302832247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_40
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 457
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49b0bbf834cc27478d28b4a4881c271
+      internalID: -2087159594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_41
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 457
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff42cad6d6c8e3c459a17b8b80bbab58
+      internalID: -1060590721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_42
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 247
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d38a3c6227b76b4ebd35536b75da43f
+      internalID: -2007290380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 297
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8343b6ec5e14754281613864275e3f1
+      internalID: -587780028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_44
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 292
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc9a3b932d68a4aba25370f547b7f7
+      internalID: -1892972860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_45
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 452
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853e6e583df91804293535a1e1680a2f
+      internalID: 171614471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_46
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 391
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 13, z: 0, w: 13}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abffe164453efa340852609f33c4a111
+      internalID: -1759780443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_47
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 454
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac73d51a1359ef45bfa8a1feaa03f35
+      internalID: 137900246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 107
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 21, z: 43, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439d5a5b8055a9d46931e43dc64b9e1e
+      internalID: 1621897806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 36
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 20, z: 43, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210807518e1579649a19cba10996a30e
+      internalID: 1428271111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 33
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4683abde9c70aa04faae02ba1cf66b67
+      internalID: -703013409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_51
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 36
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 23, z: 40, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5e27c305bdf54e8e5c357b0e2c5c3
+      internalID: 1957885378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_52
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 334
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14898fc4db281ba4291c7940c6fb7af6
+      internalID: -1433779754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_53
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 285
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aecada2dca7fba469614385ba977d8f
+      internalID: -1463712605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 37
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 23, z: 40, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96014f16427ef3f4b8b97fcd65d97017
+      internalID: 1591333352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 234
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 21, z: 36, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04e24fba20e6bc4183609fb60f6d7aa
+      internalID: -590064920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 99
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 22, z: 43, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f45359a2785dd4ab87c0c4f364b42a
+      internalID: -1388823607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_57
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 463
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e807217028fba498a41fa4465a7be9
+      internalID: 1293668848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_58
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 390
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bf551ded31e3e4a97dd05e9fd8e509
+      internalID: -626634956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_59
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 164
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 38, y: 32, z: 38, w: 32}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2980c862f57de994e83939f1da3ca567
+      internalID: -653761634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_60
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 102
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 21, z: 42, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f4ef52af9942f4aaa217b41d89370b
+      internalID: -1583544221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_61
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 47
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 21, z: 42, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8791b120a32545937928ba2c8d5da
+      internalID: -1720673490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_62
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 653
+        width: 156
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 78, y: 21, z: 78, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd73a31f1d76d2640a375c585c371567
+      internalID: 2051991707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_63
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 598
+        width: 156
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 78, y: 22, z: 78, w: 22}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40360a01fffb36343b97dd5572deb538
+      internalID: -916114325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_64
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 545
+        width: 154
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 77, y: 21, z: 77, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a06ca4a976b14097cff16339600c3
+      internalID: -666914262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_65
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 324
+        width: 338
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39943e73409e8b644982cabb6cad7405
+      internalID: 120764961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTOES_MINES_66
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 515
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcada5a4b16c5074aa40273a0c80b380
+      internalID: -1119770538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BOTOES_MINES_0: -442563597
+      BOTOES_MINES_1: 1085415278
+      BOTOES_MINES_10: 2137596375
+      BOTOES_MINES_11: -1579341194
+      BOTOES_MINES_12: 633698601
+      BOTOES_MINES_13: 1452785236
+      BOTOES_MINES_14: 124939695
+      BOTOES_MINES_15: -1498082923
+      BOTOES_MINES_16: -153174560
+      BOTOES_MINES_17: -527550073
+      BOTOES_MINES_18: 906056886
+      BOTOES_MINES_19: 979771122
+      BOTOES_MINES_2: -503378947
+      BOTOES_MINES_20: -1397840436
+      BOTOES_MINES_21: 1955762836
+      BOTOES_MINES_22: 343419282
+      BOTOES_MINES_23: -892223039
+      BOTOES_MINES_24: -1373290688
+      BOTOES_MINES_25: -1457419029
+      BOTOES_MINES_26: 1321908741
+      BOTOES_MINES_27: 626963715
+      BOTOES_MINES_28: -1317407652
+      BOTOES_MINES_29: 1736630473
+      BOTOES_MINES_3: 512667042
+      BOTOES_MINES_30: 1283857680
+      BOTOES_MINES_31: 589691580
+      BOTOES_MINES_32: -6312968
+      BOTOES_MINES_33: 564616823
+      BOTOES_MINES_34: 895443043
+      BOTOES_MINES_35: 1160342702
+      BOTOES_MINES_36: -1069498718
+      BOTOES_MINES_37: 365829085
+      BOTOES_MINES_38: 948423725
+      BOTOES_MINES_39: 302832247
+      BOTOES_MINES_4: -269341835
+      BOTOES_MINES_40: -2087159594
+      BOTOES_MINES_41: -1060590721
+      BOTOES_MINES_42: -2007290380
+      BOTOES_MINES_43: -587780028
+      BOTOES_MINES_44: -1892972860
+      BOTOES_MINES_45: 171614471
+      BOTOES_MINES_46: -1759780443
+      BOTOES_MINES_47: 137900246
+      BOTOES_MINES_48: 1621897806
+      BOTOES_MINES_49: 1428271111
+      BOTOES_MINES_5: 1180219957
+      BOTOES_MINES_50: -703013409
+      BOTOES_MINES_51: 1957885378
+      BOTOES_MINES_52: -1433779754
+      BOTOES_MINES_53: -1463712605
+      BOTOES_MINES_54: 1591333352
+      BOTOES_MINES_55: -590064920
+      BOTOES_MINES_56: -1388823607
+      BOTOES_MINES_57: 1293668848
+      BOTOES_MINES_58: -626634956
+      BOTOES_MINES_59: -653761634
+      BOTOES_MINES_6: 1727531421
+      BOTOES_MINES_60: -1583544221
+      BOTOES_MINES_61: -1720673490
+      BOTOES_MINES_62: 2051991707
+      BOTOES_MINES_63: -916114325
+      BOTOES_MINES_64: -666914262
+      BOTOES_MINES_65: 120764961
+      BOTOES_MINES_66: -1119770538
+      BOTOES_MINES_7: 1092009442
+      BOTOES_MINES_8: -1089477425
+      BOTOES_MINES_9: -1775342129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

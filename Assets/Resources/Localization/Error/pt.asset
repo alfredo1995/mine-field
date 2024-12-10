@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f39330cbe37378c4ea4c5805b39b1b42, type: 3}
+  m_Name: pt
+  m_EditorClassIdentifier: 
+  texts:
+  - key: PL001
+    value: "\t\rtitle:Erro: Jogador bloqueado\ndescription:O jogador foi bloqueado
+      e n\xE3o pode acessar o jogo."
+  - key: PL002
+    value: "title:Erro: Sess\xE3o expirada\ndescription:A sess\xE3o do jogador expirou,
+      exigindo um novo login ou renova\xE7\xE3o da sess\xE3o."
+  - key: PL003
+    value: "title:Erro: Game Desabilitado\ndescription:O jogo est\xE1 atualmente
+      desativado, seja por manuten\xE7\xE3o ou por outras raz\xF5es administrativas."
+  - key: PL004
+    value: "title:Erro: Usu\xE1rio conectado\ndescription:O usu\xE1rio j\xE1 est\xE1
+      conectado."
+  - key: PL005
+    value: "title:Erro: Jogo n\xE3o inciou\ndescription:O jogo ainda n\xE3o come\xE7ou
+      ou est\xE1 come\xE7ando."
+  - key: GS001
+    value: "title:Erro: Regra do jogo violada\ndescription:O jogador tenta realizar
+      uma a\xE7\xE3o que vai contra as regras do jogo."
+  - key: GS002
+    value: "title:Error: Falha interna no Servidor\ndescription:Um erro gen\xE9rico
+      do servidor, indicando problemas internos."
+  - key: GS003
+    value: "title:Erro: Outra sess\xE3o existente\ndescription:Um novo login foi
+      detectado, invalidando a sess\xE3o atual. Quando o usu\xE1rio tentar abrir
+      duas conex\xF5es."
+  - key: GS004
+    value: "title:Erro: Jogador foi bloqueado\ndescription:O jogador foi bloqueado
+      durante a sess\xE3o de jogo."
+  - key: GS005
+    value: "title:Erro: Conex\xE3o inst\xE1vel\ndescription:Conex\xE3o inst\xE1vel
+      ou qualidade de rede ruim."
+  - key: GS006
+    value: "title:Erro: Bloqueio de regi\xE3o | jurisdi\xE7\xE3o\ndescription:Jogador
+      tenta acessar de uma regi\xE3o onde o jogo n\xE3o \xE9 permitido."
+  - key: GS007
+    value: "title:Erro: Jogo n\xE3o encontrado\ndescription:O jogo n\xE3o foi encontrado."
+  - key: OP001
+    value: 'title:Erro: Fundos insuficientes
+
+      description:O jogador tenta fazer
+      uma aposta com saldo insuficiente.'
+  - key: OP002
+    value: "title:Erro: Aposta n\xE3o realizada\ndescription:Falha ao colocar uma
+      aposta devido a problemas de conex\xE3o ou valida\xE7\xE3o."
+  - key: OP003
+    value: "title:Erro: Tempo de apostas expirado\ndescription:Tentativa de apostar
+      ap\xF3s o fechamento do tempo de aposta."
+  - key: OP004
+    value: "\t\rtitle:Erro: Aposta j\xE1 existe\ndescription:Tentativa de fazer a
+      mesma apostar duas vezes simultaneamente."
+  - key: CS001
+    value: 'title:Erro: Atividade suspeita detectada
+
+      description:Atividade
+      suspeita detectada na conta do jogador.'
+  - key: CS002
+    value: "title:Erro: Restri\xE7\xE3o de dispositivo\ndescription:O acesso foi
+      negado devido a restri\xE7\xF5es no dispositivo usado pelo jogador."
+  - key: CS003
+    value: "title:Erro: Recuperar configura\xE7\xE3o\ndescription:Erro ao tentar
+      recuperar ou carregar as configura\xE7\xF5es do usu\xE1rio/game."
+  - key: CS004
+    value: "title:Erro: Checar tempo de jogo\ndescription:D\xE1 aos jogadores a op\xE7\xE3o
+      de definir uma frequ\xEAncia de tempo em que voc\xEA receber\xE1 uma notifica\xE7\xE3o
+      sobre o tempo que passou no jogo."
+  - key: MS001
+    value: "title:Erro: Espec\xEDfico do Mines\ndescription:Erro espec\xEDfico!!"
+  - key: CL001
+    value: "title:Erro: Canal inv\xE1lido\ndescription:Quando o jogador tenta subscrever
+      um canal que n\xE3o existe ou que est\xE1 proibido."
+  - key: CL002
+    value: "\t\rtitle:Erro: Aposta autom\xE1tica j\xE1 realizada\ndescription:Quando
+      o jogador tenta fazer uma aposta autom\xE1tica mas j\xE1 foi feita uma aposta
+      normal."
+  - key: CL003
+    value: "title:Erro: Valor de aposta acima do limite\ndescription:Quando o valor
+      da aposta \xE9 superior ao valor m\xE1ximo. "
+  - key: CL004
+    value: "title:Erro: Aposta abaixo do limite\ndescription:Quando o valor da aposta
+      \xE9 inferior ao valor m\xEDnimo. "
+  - key: CL005
+    value: "title:Erro: Aposta autom\xE1tica desabilitada\ndescription:Quando o utilizador
+      tenta fazer uma aposta autom\xE1tica mas esta n\xE3o est\xE1 dispon\xEDvel."
